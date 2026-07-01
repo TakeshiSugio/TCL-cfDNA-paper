@@ -1,0 +1,15 @@
+Sample_HTLV001_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV003_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV002_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV004_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV006_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV005_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV007_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV009_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV008_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV010_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV012_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV011_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV013_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV015_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
+Sample_HTLV014_cfDNA.dualindex-deduped.sorted.reheader.base.coverage.GCcorrected
